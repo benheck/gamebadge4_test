@@ -1,0 +1,14 @@
+{
+  "arduino.enableUSBDetection": true,
+  "arduino.useArduinoCli": true,
+  "arduino.defaultBaudRate": 115200,
+  "arduino.commandPath": "C:/arduino-cli/arduino-cli.exe",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "C:/Users/benja/OneDrive/Documents/Arduino/libraries/gameBadgePico4",
+    "C:/Users/benja/OneDrive/Documents/Arduino/libraries/pico_ILI9341"
+  ],
+  "C_Cpp.default.intelliSenseMode": "windows-gcc-arm",
+  "C_Cpp.default.cppStandard": "c++17",
+  "C_Cpp.default.cStandard": "c11"
+}

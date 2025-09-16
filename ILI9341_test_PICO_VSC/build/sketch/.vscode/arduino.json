@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\benja\\OneDrive\\Documents\\Github\\gamebadge4_test\\ILI9341_test_PICO_VSC\\.vscode\\arduino.json"
+{
+    "sketch": "ILI9341_test_PICO_VSC.ino",
+    "board": "rp2040:rp2040:rpipico2",
+    "port": "COM5",
+    "output": "build",
+    "configuration": "flash=4194304_3145728,arch=arm,freq=150,opt=Small,rtti=Disabled,stackprotect=Disabled,exceptions=Disabled,dbgport=Disabled,dbglvl=None,usbstack=tinyusb,ipbtstack=ipv4only,uploadmethod=default"
+}
